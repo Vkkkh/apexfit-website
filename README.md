@@ -74,7 +74,7 @@ body {
 <div class="hero">
   <h1>Weight Loss Blueprint</h1>
   <p>The Ultimate 30-Day System for Busy Professionals to Lose Weight, Boost Energy, and Build Discipline.</p>
-  <a href="https://whop.com/apexfit-systems/weight-loss-blueprint-77/" class="btn">Get Instant Access</a>
+  <a href="https://whop.com/dashboard/biz_FQD3R4QJapUHV6/products/prod_wATl7huNHGQkS/" class="btn">Get Instant Access</a>
 </div>
 
 <!-- PROBLEM -->
@@ -151,7 +151,7 @@ body {
   <div class="card" style="margin:auto;">
     <h3>Weight Loss Blueprint</h3>
     <p>A complete 30-day system designed for busy professionals to lose weight and build long-term habits.</p>
-    <a href="https://whop.com/apexfit-systems/weight-loss-blueprint-77/" class="btn">Buy Now</a>
+    <a href="https://whop.com/dashboard/biz_FQD3R4QJapUHV6/products/prod_wATl7huNHGQkS/" class="btn">Buy Now</a>
   </div>
 </div>
 
@@ -159,7 +159,7 @@ body {
 <div class="section">
   <h2>Start Your Transformation Today</h2>
   <p>Stop guessing. Start executing.</p>
-  <a href="[https://whop.com/apexfit-systems/weight-loss-blueprint-77/" class="btn">Get Access Now</a>
+  <a href="https://whop.com/dashboard/biz_FQD3R4QJapUHV6/products/prod_wATl7huNHGQkS/" class="btn">Get Access Now</a>
 </div>
 
 <!-- FOOTER -->
